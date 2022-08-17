@@ -1,0 +1,17 @@
+dsa
+recursion,
+binary tree,
+linklist,
+object manupulation
+array manupulation
+string manupulation
+dp backtracking and graph.
+
+
+Javascript
+
+
+
+object manupulation
+array manupulation
+string manupulation

@@ -1,0 +1,5 @@
+Add One or more Node Package at one commond
+ 
+npm i express mongoose dotenv nodemon
+or
+yarn add express mongoose dotenv nodemon
